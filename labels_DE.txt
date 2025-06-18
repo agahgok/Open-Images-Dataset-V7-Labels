@@ -1,601 +1,601 @@
-Accordion
-Adhesive tape
-Aircraft
-Airplane
-Alarm clock
-Alpaca
-Ambulance
-Animal
-Ant
-Antelope
-Apple
-Armadillo
-Artichoke
-Auto part
-Axe
-Backpack
+Akkordeon
+Klebeband
+Flugzeug
+Flugzeug
+Wecker
+Alpaka
+Krankenwagen
+Tier
+Ameise
+Antilope
+Apfel
+Gürteltier
+Artischocke
+Autoteil
+Axt
+Rucksack
 Bagel
-Baked goods
-Balance beam
+Gebacken Waren
+Gleichgewicht Strahl
 Ball
-Balloon
-Banana
-Band-aid
+Ballon
+Banane
+Pflaster
 Banjo
-Barge
-Barrel
-Baseball bat
-Baseball glove
-Bat (Animal)
-Bathroom accessory
-Bathroom cabinet
-Bathtub
-Beaker
-Bear
-Bed
-Bee
-Beehive
-Beer
-Beetle
-Bell pepper
-Belt
-Bench
-Bicycle
-Bicycle helmet
-Bicycle wheel
+Lastkahn
+Fass
+Baseballschläger
+Baseballhandschuh
+Fledermaus ( Tier )
+Badezimmer Zubehör
+Badezimmer Kabinett
+Badewanne
+Becherglas
+Tragen
+Bett
+Biene
+Bienenstock
+Bier
+Käfer
+Paprika
+Gürtel
+Bank
+Fahrrad
+Fahrradhelm
+Fahrrad -Rad
 Bidet
-Billboard
-Billiard table
-Binoculars
-Bird
-Blender
-Blue jay
-Boat
-Bomb
-Book
-Bookcase
+Plakatwand
+Billard Tisch
+Fernglas
+Vogel
+Mixer
+Blauhäher
 Boot
-Bottle
-Bottle opener
-Bow and arrow
-Bowl
-Bowling equipment
-Box
-Boy
-Brassiere
-Bread
-Briefcase
-Broccoli
-Bronze sculpture
-Brown bear
-Building
-Bull
+Bombe
+Buch
+Bücherregal
+Stiefel
+Flasche
+Flasche Öffner
+Bogen Und Pfeil
+Schüssel
+Bowlingausrüstung
+Kasten
+Junge
+Büstenhalter
+Brot
+Aktentasche
+Brokkoli
+Bronze Skulptur
+Braunbär
+Gebäude
+Stier
 Burrito
 Bus
-Bust
-Butterfly
-Cabbage
-Cabinetry
-Cake
-Cake stand
-Calculator
-Camel
-Camera
-Can opener
-Canary
-Candle
-Candy
-Cannon
-Canoe
-Cantaloupe
-Car
-Carnivore
-Carrot
-Cart
-Cassette deck
-Castle
-Cat
-Cat furniture
-Caterpillar
-Cattle
-Ceiling fan
+Büste
+Schmetterling
+Kohl
+Möbelbau
+Kuchen
+Kuchen Stand
+Kalkulator
+Kamel
+Kamera
+Dosenöffner
+Kanarienvogel
+Kerze
+Süßigkeiten
+Kanone
+Kanu
+Kantalupe
+Auto
+Fleischfresser
+Karotte
+Warenkorb
+Kassette Deck
+Schloss
+Katze
+Katze Möbel
+Raupe
+Vieh
+Deckenventilator
 Cello
-Centipede
-Chainsaw
-Chair
-Cheese
-Cheetah
-Chest of drawers
-Chicken
-Chime
-Chisel
-Chopsticks
-Christmas tree
-Clock
-Closet
-Clothing
-Coat
+Tausendfüßler
+Kettensäge
+Stuhl
+Käse
+Gepard
+Kommode
+Huhn
+Glockenspiel
+Meißel
+Essstäbchen
+Weihnachten Baum
+Uhr
+Kleiderschrank
+Kleidung
+Mantel
 Cocktail
-Cocktail shaker
-Coconut
-Coffee
-Coffee cup
-Coffee table
-Coffeemaker
-Coin
-Common fig
-Common sunflower
-Computer keyboard
-Computer monitor
-Computer mouse
+Cocktail Shaker
+Kokosnuss
+Kaffee
+Kaffeetasse
+Kaffee Tisch
+Kaffeemaschine
+Münze
+Gemeinsam Feige
+Gemeinsam Sonnenblume
+Computer Tastatur
+Computer Monitor
+Computer Maus
 Container
-Convenience store
-Cookie
-Cooking spray
-Corded phone
-Cosmetics
+Bequemlichkeit speichern
+Plätzchen
+Kochspray
+Kabelgebunden Telefon
+Kosmetika
 Couch
-Countertop
-Cowboy hat
-Crab
-Cream
-Cricket ball
-Crocodile
+Arbeitsplatte
+Cowboyhut
+Krabbe
+Creme
+Kricket Ball
+Krokodil
 Croissant
-Crown
-Crutch
-Cucumber
-Cupboard
-Curtain
-Cutting board
-Dagger
-Dairy Product
-Deer
-Desk
-Dessert
-Diaper
-Dice
-Digital clock
-Dinosaur
-Dishwasher
-Dog
-Dog bed
-Doll
-Dolphin
-Door
-Door handle
-Doughnut
-Dragonfly
-Drawer
-Dress
-Drill (Tool)
-Drink
-Drinking straw
-Drum
-Duck
-Dumbbell
-Eagle
-Earrings
-Egg (Food)
-Elephant
-Envelope
-Eraser
-Face powder
-Facial tissue holder
-Falcon
-Fashion accessory
-Fast food
+Krone
+Krücke
+Gurke
+Schrank
+Vorhang
+Schneidebrett
+Dolch
+Milchprodukt
+Reh
+Schreibtisch
+Nachtisch
+Windel
+Würfel
+Digital Uhr
+Dinosaurier
+Spülmaschine
+Hund
+Hund Bett
+Puppe
+Delphin
+Tür
+Tür handhaben
+Krapfen
+Libelle
+Schublade
+Kleid
+Bohrer ( Werkzeug )
+Trinken
+Trinken Stroh
+Trommel
+Ente
+Hantel
+Adler
+Ohrringe
+Ei ( Lebensmittel )
+Elefant
+Umschlag
+Radiergummi
+Gesicht Pulver
+Gesichts Gewebe Halter
+Falke
+Mode Zubehör
+Schnell Essen
 Fax
 Fedora
-Filing cabinet
-Fire hydrant
-Fireplace
-Fish
-Flag
-Flashlight
-Flower
-Flowerpot
-Flute
-Flying disc
-Food
-Food processor
-Football
-Football helmet
-Footwear
-Fork
-Fountain
-Fox
-French fries
-French horn
-Frog
-Fruit
-Frying pan
-Furniture
-Garden Asparagus
-Gas stove
+Einreichung Kabinett
+Hydrant
+Kamin
+Fisch
+Flagge
+Taschenlampe
+Blume
+Blumentopf
+Flöte
+Fliegen Scheibe
+Essen
+Essen Prozessor
+Fußball
+Footballhelm
+Fußbekleidung
+Gabel
+Brunnen
+Fuchs
+Pommes frites
+Waldhorn
+Frosch
+Obst
+Braten Pfanne
+Möbel
+Garten Spargel
+Gas Herd
 Giraffe
-Girl
-Glasses
-Glove
-Goat
-Goggles
-Goldfish
-Golf ball
-Golf cart
-Gondola
-Goose
-Grape
+Mädchen
+Gläser
+Handschuh
+Ziege
+Brille
+Goldfisch
+Golfball
+Golfwagen
+Gondel
+Gans
+Traube
 Grapefruit
-Grinder
+Schleifer
 Guacamole
-Guitar
-Hair dryer
-Hair spray
+Gitarre
+Haar Trockner
+Haar Spray
 Hamburger
 Hammer
 Hamster
-Hand dryer
-Handbag
-Handgun
-Harbor seal
-Harmonica
-Harp
-Harpsichord
-Hat
-Headphones
-Heater
-Hedgehog
-Helicopter
-Helmet
-High heels
-Hiking equipment
-Hippopotamus
-Home appliance
-Honeycomb
-Horizontal bar
-Horse
-Hot dog
-House
-Houseplant
-Human arm
-Human beard
-Human body
-Human ear
-Human eye
-Human face
-Human foot
-Human hair
-Human hand
-Human head
-Human leg
-Human mouth
-Human nose
-Humidifier
-Ice cream
-Indoor rower
-Infant bed
-Insect
-Invertebrate
-Ipod
-Isopod
-Jacket
-Jacuzzi
-Jaguar (Animal)
+Hand Trockner
+Handtasche
+Pistole
+Hafen Siegel
+Mundharmonika
+Harfe
+Cembalo
+Hut
+Kopfhörer
+Heizung
+Igel
+Hubschrauber
+Helm
+Hohe Absätze
+Wandern Ausrüstung
+Nilpferd
+Haushaltsgeräte
+Bienenwabe
+Reck
+Pferd
+Hotdog
+Haus
+Zimmerpflanze
+Menschlicher Arm
+Menschlicher Bart
+Menschlicher Körper
+Menschliches Ohr
+Menschliches Auge
+Menschliches Gesicht
+Menschlicher Fuß
+Menschliches Haar
+Menschliche Hand
+Menschlicher Kopf
+Menschliches Bein
+Menschlicher Mund
+Menschliche Nase
+Luftbefeuchter
+Eis Creme
+Innenbereich Ruderer
+Säugling Bett
+Insekt
+Wirbellos
+iPod
+Assel
+Jacke
+Whirlpool
+Jaguar ( Tier )
 Jeans
-Jellyfish
-Jet ski
-Jug
-Juice
-Kangaroo
-Kettle
-Kitchen & dining room table
-Kitchen appliance
-Kitchen knife
-Kitchen utensil
-Kitchenware
-Kite
-Knife
+Qualle
+Jetski
+Krug
+Saft
+Känguru
+Wasserkocher
+Küche & Esszimmer Zimmer Tisch
+Küchengerät
+Küchenmesser
+Küchengerät
+Geschirr
+Drachen
+Messer
 Koala
-Ladder
-Ladle
-Ladybug
-Lamp
-Land vehicle
-Lantern
+Leiter
+Schöpfkelle
+Marienkäfer
+Lampe
+Landfahrzeug
+Laterne
 Laptop
-Lavender (Plant)
-Lemon
+Lavendel ( Pflanze )
+Zitrone
 Leopard
-Light bulb
-Light switch
-Lighthouse
-Lily
+Licht Birne
+Licht schalten
+Leuchtturm
+Lilie
 Limousine
-Lion
-Lipstick
-Lizard
-Lobster
-Loveseat
-Luggage and bags
-Lynx
-Magpie
-Mammal
-Man
+Löwe
+Lippenstift
+Eidechse
+Hummer
+Zweisitzer
+Gepäck Und Taschen
+Luchs
+Elster
+Säugetier
+Mann
 Mango
-Maple
+Ahorn
 Maracas
-Marine invertebrates
-Marine mammal
-Measuring cup
-Mechanical fan
-Medical equipment
-Microphone
-Microwave oven
-Milk
-Miniskirt
-Mirror
-Missile
-Mixer
-Mixing bowl
-Mobile phone
-Monkey
-Moths and butterflies
-Motorcycle
-Mouse
+Meereswirbellose
+Meeressäugetier
+Messbecher
+Mechanischer Lüfter
+Medizinisch Ausrüstung
+Mikrofon
+Mikrowelle Ofen
+Milch
+Minirock
+Spiegel
+Rakete
+Mischer
+Mischen Schüssel
+Mobiltelefon
+Affe
+Motten Und Schmetterlinge
+Motorrad
+Maus
 Muffin
-Mug
-Mule
-Mushroom
-Musical instrument
-Musical keyboard
-Nail (Construction)
-Necklace
-Nightstand
+Becher
+Maultier
+Pilz
+Musikinstrument
+Musiktastatur
+Nagel (Bau)
+Halskette
+Nachttisch
 Oboe
-Office building
-Office supplies
+Bürogebäude
+Bürobedarf
 Orange
-Organ (Musical Instrument)
-Ostrich
+Orgel ( Musikinstrument )
+Strauß
 Otter
-Oven
-Owl
-Oyster
-Paddle
-Palm tree
-Pancake
+Ofen
+Eule
+Auster
+Paddeln
+Palme
+Pfannkuchen
 Panda
-Paper cutter
-Paper towel
-Parachute
-Parking meter
-Parrot
+Papier Cutter
+Papier Handtuch
+Fallschirm
+Parken Meter
+Papagei
 Pasta
-Pastry
-Peach
-Pear
-Pen
-Pencil case
-Pencil sharpener
-Penguin
-Perfume
+Gebäck
+Pfirsich
+Birne
+Stift
+Bleistift Fall
+Bleistift Spitzer
+Pinguin
+Parfüm
 Person
-Personal care
-Personal flotation device
-Piano
-Picnic basket
-Picture frame
-Pig
-Pillow
-Pineapple
-Pitcher (Container)
+Persönlich Pflege
+Persönlich Flotation Gerät
+Klavier
+Picknickkorb
+Bilderrahmen
+Schwein
+Kissen
+Ananas
+Krug ( Behälter )
 Pizza
-Pizza cutter
-Plant
-Plastic bag
-Plate
-Platter
-Plumbing fixture
-Polar bear
-Pomegranate
+Pizzaschneider
+Anlage
+Plastik Tasche
+Platte
+Teller
+Sanitär Vorrichtung
+Eisbär
+Granatapfel
 Popcorn
-Porch
-Porcupine
+Veranda
+Stachelschwein
 Poster
-Potato
-Power plugs and sockets
-Pressure cooker
-Pretzel
-Printer
-Pumpkin
-Punching bag
-Rabbit
-Raccoon
-Racket
-Radish
-Ratchet (Device)
-Raven
-Rays and skates
-Red panda
-Refrigerator
-Remote control
-Reptile
-Rhinoceros
-Rifle
-Ring binder
-Rocket
-Roller skates
+Kartoffel
+Leistung Stecker Und Steckdosen
+Druck Kocher
+Brezel
+Drucker
+Kürbis
+Stanzen Tasche
+Kaninchen
+Waschbär
+Schläger
+Rettich
+Ratsche (Gerät)
+Rabe
+Strahlen Und Schlittschuhe
+Roter Panda
+Kühlschrank
+Fernbedienung
+Reptil
+Nashorn
+Gewehr
+Ringbuch
+Rakete
+Rollschuhe
 Rose
-Rugby ball
-Ruler
-Salad
-Salt and pepper shakers
-Sandal
+Rugbyball
+Herrscher
+Salat
+Salz und Pfeffer Shaker
+Sandale
 Sandwich
-Saucer
-Saxophone
-Scale
-Scarf
-Scissors
-Scoreboard
-Scorpion
-Screwdriver
-Sculpture
-Sea lion
-Sea turtle
-Seafood
-Seahorse
-Seat belt
+Untertasse
+Saxophon
+Skala
+Schal
+Schere
+Anzeigetafel
+Skorpion
+Schraubendreher
+Skulptur
+Meer Löwe
+Meer Schildkröte
+Meeresfrüchte
+Seepferdchen
+Sitz Gürtel
 Segway
-Serving tray
-Sewing machine
-Shark
-Sheep
-Shelf
-Shellfish
-Shirt
+Portion Tablett
+Nähen Maschine
+Hai
+Schaf
+Regal
+Schalentiere
+Hemd
 Shorts
-Shotgun
-Shower
-Shrimp
-Sink
+Schrotflinte
+Dusche
+Garnele
+Waschbecken
 Skateboard
 Ski
-Skirt
-Skull
+Rock
+Schädel
 Skunk
-Skyscraper
-Slow cooker
+Wolkenkratzer
+Langsam Kocher
 Snack
-Snail
-Snake
+Schnecke
+Schlange
 Snowboard
-Snowman
-Snowmobile
-Snowplow
-Soap dispenser
-Sock
-Sofa bed
+Schneemann
+Schneemobil
+Schneepflug
+Seifenspender
+Socke
+Schlafsofa
 Sombrero
-Sparrow
-Spatula
-Spice rack
-Spider
-Spoon
-Sports equipment
-Sports uniform
-Squash (Plant)
-Squid
-Squirrel
-Stairs
-Stapler
-Starfish
-Stationary bicycle
-Stethoscope
-Stool
-Stop sign
-Strawberry
-Street light
-Stretcher
-Studio couch
-Submarine
-Submarine sandwich
-Suit
-Suitcase
-Sun hat
-Sunglasses
-Surfboard
+Spatz
+Spatel
+Würzen Gestell
+Spinne
+Löffel
+Sportausrüstung
+Sportuniform
+Kürbis ( Pflanze )
+Tintenfisch
+Eichhörnchen
+Treppe
+Hefter
+Seestern
+Stationär Fahrrad
+Stethoskop
+Hocker
+Stoppschild
+Erdbeere
+Straßenlaterne
+Bahre
+Studio Couch
+U-Boot
+U-Boot Sandwich
+Anzug
+Koffer
+Sonnenhut
+Sonnenbrille
+Surfbrett
 Sushi
-Swan
-Swim cap
-Swimming pool
-Swimwear
-Sword
-Syringe
-Table
-Table tennis racket
-Tablet computer
-Tableware
+Schwan
+Schwimmen Kappe
+Baden Pool
+Bademode
+Schwert
+Spritze
+Tisch
+Tisch Tennis Schläger
+Tablet -Computer
+Geschirr
 Taco
 Tank
-Tap
-Tart
+Klopfen
+Törtchen
 Taxi
-Tea
-Teapot
-Teddy bear
-Telephone
-Television
-Tennis ball
-Tennis racket
-Tent
+Tee
+Teekanne
+Teddy tragen
+Telefon
+Fernsehen
+Tennis Ball
+Tennis Schläger
+Zelt
 Tiara
 Tick
-Tie
+Binden
 Tiger
-Tin can
-Tire
+Blechdose
+Reifen
 Toaster
-Toilet
-Toilet paper
-Tomato
-Tool
-Toothbrush
-Torch
-Tortoise
-Towel
-Tower
-Toy
-Traffic light
-Traffic sign
-Train
-Training bench
-Treadmill
-Tree
-Tree house
-Tripod
-Trombone
-Trousers
-Truck
-Trumpet
-Turkey
-Turtle
-Umbrella
-Unicycle
+Toilette
+Toilette Papier
+Tomate
+Werkzeug
+Zahnbürste
+Fackel
+Schildkröte
+Handtuch
+Turm
+Spielzeug
+Verkehr Licht
+Verkehr Zeichen
+Zug
+Trainingsbank
+Tretmühle
+Baum
+Baum Haus
+Stativ
+Posaune
+Hose
+LKW
+Trompete
+Truthahn
+Schildkröte
+Regenschirm
+Einrad
 Van
 Vase
-Vegetable
-Vehicle
-Vehicle registration plate
-Violin
-Volleyball (Ball)
-Waffle
-Waffle iron
-Wall clock
-Wardrobe
-Washing machine
-Waste container
-Watch
-Watercraft
-Watermelon
-Weapon
-Whale
-Wheel
-Wheelchair
-Whisk
+Gemüse
+Fahrzeug
+Fahrzeug Anmeldung Platte
+Violine
+Volleyball ( Ball )
+Waffel
+Waffel Eisen
+Wanduhr
+Kleiderschrank
+Waschen Maschine
+Abfall Container
+Betrachten
+Wasserfahrzeuge
+Wassermelone
+Waffe
+Wal
+Rad
+Rollstuhl
+Schneebesen
 Whiteboard
-Willow
-Window
-Window blind
-Wine
-Wine glass
-Wine rack
-Winter melon
+Weide
+Fenster
+Fenster blind
+Wein
+Weinglas
+Weinregal
+Wintermelone
 Wok
-Woman
-Wood-burning stove
-Woodpecker
-Worm
-Wrench
+Frau
+Holzofen Herd
+Specht
+Wurm
+Schlüssel
 Zebra
 Zucchini
